@@ -1,0 +1,28 @@
+
+h1 {
+    font-size: 20px;
+    color: palevioletred;
+    text-align: justify;
+    animation-duration: 5s;
+    animation-direction:alternate;
+    animation-iteration-count: infinite;
+    animation-name: slidein;
+  }
+  
+  @keyframes slidein {
+    from {
+      margin-left: 100%;
+      width: 400px;
+      color: white;
+    }
+  
+    to {
+      margin-left: 0%;
+      width: 200px;
+      color: palevioletred;
+    }
+  }
+
+span.pink{
+ color:black;
+}
