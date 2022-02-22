@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+p{
+  margin: 55px;
+  font-size: 35px;
+  text-align: justify;
+  color: white;
+}
+span.red{
+    font-size: 37px;
+    color: red;
+}
+span.pink{
+    font-size: 37px;
+    color: rgb(245, 111, 194);
+}

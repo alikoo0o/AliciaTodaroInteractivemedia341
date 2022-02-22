@@ -1,0 +1,64 @@
+
+.red{
+    color: red;
+    width: 500px;
+    text-align: justify;
+    line-height: 2em;
+}
+.orange{
+    color: orange;
+    width: 500px;
+    text-align: justify;
+    margin-top: -290px ;
+    margin-left: 5px;
+    line-height: 2em;
+}
+
+.yellow{
+    color: yellow;
+    width: 500px;
+    text-align: justify;
+    margin-top: -290px ;
+    margin-left: 10px;
+    line-height: 2em;
+}
+.green{
+    color: green;
+    width: 500px;
+    text-align: justify;
+    margin-top: -290px ;
+    margin-left: 15px;
+    line-height: 2em;
+}
+.blue{
+    color: blue;
+    width: 500px;
+    text-align: justify;
+    margin-top: -290px ;
+    margin-left: 20px;
+    line-height: 2em;
+
+}
+.purple{
+    color: blueviolet;
+    width: 500px;
+    text-align: justify;
+    margin-top: -290px ;
+    margin-left: 25px;
+    line-height: 2em;
+}
+.container2{
+    margin-top:-50px ;
+}
+.container3{
+    margin-top:-2000px ;
+    margin-left: 400px;
+}
+.container4{
+    margin-top:-50px ;
+    margin-left: 400px;
+}
+.text{
+    margin-top:-2000px ;
+    font-size: 300px; 
+}
