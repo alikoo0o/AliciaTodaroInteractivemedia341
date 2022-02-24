@@ -1,0 +1,81 @@
+body{
+    background-color:black ;
+  
+}
+.p{
+   Font: Georgia;
+}
+.white{
+    color: white;
+}
+.text1{
+margin: auto auto;
+width: 498px;
+padding:20px;
+background-color: white;
+text-align: right;
+border-style: groove;
+}
+.text2{
+    margin: auto auto;
+    width: 500px;
+    padding:20px;
+    background-color: rgb(230, 228, 228);
+    text-align: right;
+}
+.text3{
+    margin: auto auto;
+    width: 500px;
+    padding:20px;
+    background-color: rgb(201, 199, 199);
+    text-align: right;
+}
+.text4{
+    margin: auto auto;
+    width: 500px;
+    padding:20px;
+    background-color: rgb(163, 163, 163);
+    text-align: right;
+}
+.text5{
+    margin: auto auto;
+    width: 500px;
+    padding:20px;
+    background-color: rgb(145, 144, 144);
+    text-align: right;
+}
+.text6{
+    margin: auto auto;
+    width: 500px;
+    padding:20px;
+    background-color: rgb(114, 113, 113);
+    text-align: right;
+}
+.text7{
+    margin: auto auto;
+    width: 500px;
+    padding:20px;
+    background-color: rgb(70, 69, 69);
+    text-align: right;
+}
+.text8{
+    margin: auto auto;
+    width: 500px;
+    padding:20px;
+    background-color: rgb(49, 49, 49);
+    text-align: right;
+}
+.text9{
+    margin: auto auto;
+    width: 500px;
+    padding:20px;
+    background-color: rgb(17, 17, 17);
+    text-align: right;
+}
+.text10{
+    margin: auto auto;
+    width: 500px;
+    padding:20px;
+    background-color:black;
+    text-align: right;
+}

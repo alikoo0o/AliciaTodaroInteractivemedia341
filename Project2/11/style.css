@@ -1,0 +1,217 @@
+body{
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+.container{
+    height: 400px;
+    width:400px; 
+    padding: 30px;
+    margin: auto;
+    border-style: dotted;
+    border: auto;
+}
+.text1{
+    
+    width: 80px; 
+    margin-left: 600px;
+    margin-top: -230px ;
+}
+.text2{
+    
+    width: 80px; 
+    margin-left: 695px;
+    margin-top: 110px ;
+}
+.text3{
+    
+    width: 90px; 
+    margin-left: 595px;
+    margin-top: 110px ;
+}
+.text4{
+    
+    width: 90px; 
+    margin-left: 695px;
+    margin-top: 0px ;
+}
+.text5{
+    
+    width: 90px; 
+    margin-left: 795px;
+    margin-top: -10px ;
+}
+.text6{
+    
+    width: 100px; 
+    margin-left: 495px;
+    margin-top: 0px ;
+}
+.text7{
+    
+    width: 100px; 
+    margin-left: 495px;
+    margin-top: 60px ;
+}
+.text8{
+    
+    width: 100px; 
+    margin-left: 595px;
+    margin-top: 9px ;
+}
+.text9{
+    
+    width: 100px; 
+    margin-left: 795px;
+    margin-top: -50px ;
+}
+.text10{
+    
+    width: 100px; 
+    margin-left: 495px;
+    margin-top: 237px ;
+}
+.text11{
+    
+    width: 100px; 
+    margin-left: 595px;
+    margin-top: 0px ;
+}
+.text12{
+    
+    width: 100px; 
+    margin-left: 495px;
+    margin-top: 225px ;
+}
+.texti{
+    
+    width: 100px; 
+    margin-left: 495px;
+    margin-top: 70px ;
+}
+.textto{
+    
+    width: 100px; 
+    margin-left: 595px;
+    margin-top: 15px ;
+}
+.textwhere{
+    
+    width: 100px; 
+    margin-left: 695px;
+    margin-top: -120px ;
+}
+.textyou{
+    
+    width: 100px; 
+    margin-left: 800px;
+    margin-top: -20px ;
+}
+.text17{
+    
+    width: 100px; 
+    margin-left: 595px;
+    margin-top: 50px ;
+}
+.text18{
+    
+    width: 100px; 
+    margin-left: 695px;
+    margin-top: 115px ;
+}
+.text19{
+    
+    width: 100px; 
+    margin-left: 595px;
+    margin-top: 0px ;
+}
+.text20{
+    
+    width: 100px; 
+    margin-left: 595px;
+    margin-top: 75px ;
+}
+.text21{
+    
+    width: 100px; 
+    margin-left: 595px;
+    margin-top: 50px ;
+}
+.text22{
+    
+    width: 100px; 
+    margin-left: 595px;
+    margin-top: 50px ;
+}
+.text23{
+    
+    width: 100px; 
+    margin-left: 395px;
+    margin-top: 160px ;
+}
+.text24{
+    
+    width: 100px; 
+    margin-left: 605px;
+    margin-top: 40px ;
+}
+.text25{
+    
+    width: 100px; 
+    margin-left: 495px;
+    margin-top: -10px ;
+}
+.text26{
+    
+    width: 100px; 
+    margin-left: 695px;
+    margin-top: -50px ;
+}
+.text27{
+    
+    width: 100px; 
+    margin-left: 595px;
+    margin-top: 550px ;
+}
+.text28{
+    
+    width: 100px; 
+    margin-left: 640px;
+    margin-top: 250px ;
+}
+
+.box1{
+    margin-left: -55px;
+    margin-top: 160px ;
+    width:500px;
+    height: auto;
+    transform: rotate(30deg);
+    border: auto;
+    border-style: dotted;
+}
+.box2{
+    margin-left: -55px;
+    margin-top: -60px;
+    width:500px;
+    height: auto;
+    transform: rotate(150deg);
+    border: auto;
+    border-style: dotted;
+}
+.box3{
+    margin-left: -55px;
+    margin-top: 100px;
+    width:500px;
+    height: auto;
+    transform: rotate(30deg);
+    border: auto;
+    border-style: dotted;
+}
+.box4{
+    margin-left: -55px;
+    margin-top: 100px;
+    width:500px;
+    height: auto;
+    transform: rotate(150deg);
+    border: auto;
+    border-style: dotted;
+}

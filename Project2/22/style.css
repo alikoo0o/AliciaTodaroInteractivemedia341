@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(66, 0, 99);
+}
+p{
+  margin: 55px;
+  font-size: 35px;
+  text-align: justify;
+
+}
+span.red{
+    font-size: 37px;
+
+}
+span.red:hover{
+    font-size: 107px;
+    color: rgb(195,34,171);
+    transition-duration:1s;
+
+}
+span.pink{
+    font-size: 37px;
+    color: rgb(253,187,45);
+}
+span.pink:hover{
+    font-size: 207px;
+    transition-duration:1s;
+}

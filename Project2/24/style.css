@@ -1,0 +1,94 @@
+
+.box1{
+
+    background-color: rgb(255, 230, 0);
+    width: 500px;
+    height:100px;
+    padding: 10px;
+    font: 12px Verdana;
+    color: white;
+    border-style: dashed;
+    margin: auto;
+    text-align: center;
+
+}
+.box2{
+
+    background-color: rgb(255, 230, 0);
+    width: 600px;
+    height:200px;
+    padding: 15px;
+    font: 25px Verdana;
+    color: white;
+    margin: auto;
+    text-align: center;
+    border-style: dashed;
+}
+.box3{
+    background-color: rgb(255, 230, 0);
+    width: 700px;
+    height:200px;
+    padding: 10px;
+    font: 25px Verdana;
+    color: white;
+    margin: auto;
+    text-align: center;
+    border-style: dashed;
+}
+.box4{
+    background-color: rgb(255, 230, 0);
+    width: 500px;
+    height:130px;
+    padding: 1px;
+    font: 50px Verdana;
+    color: white;
+    margin: auto;
+    text-align: center;
+    border-style: dashed;
+    
+}
+.i{
+    font: 10px Verdana;
+    margin-top: -500px;
+    margin-left: 15%;
+}
+.i:hover{
+    transform: rotate(20deg);
+    transition-duration: 0.5s;
+}
+.to{
+    font: 10px Verdana;
+    margin-top: 50px;
+    margin-left: 85%;
+
+}
+.to:hover{
+    transform: rotate(-20deg);
+    transition-duration: 0.5s;
+}
+.where{
+    font: 10px Verdana;
+    margin-top: 100px;
+    margin-left: 10%;
+
+}
+
+.where:hover{
+    transform: rotate(20deg);
+    transition-duration: 0.5s;
+}
+.are{
+    font: 10px Verdana;
+    margin-top: 300px;
+    margin-left: 90%;
+}
+.are:hover{
+    transform: rotate(-20deg);
+    transition-duration: 0.5s;
+}
+.title{
+    margin-top: 40px;
+    font: 12px Verdana;
+    margin-left: 35%;
+
+}

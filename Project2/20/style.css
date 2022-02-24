@@ -1,0 +1,21 @@
+body{
+    background: rgb(195,34,171);
+background: linear-gradient(0deg, rgba(195,34,171,1) 0%, rgba(253,187,45,1) 100%);
+}
+p{
+
+  font-size: 400px;
+
+  text-align: justify;
+
+}
+span.red{
+    transform: rotate (-50deg);
+    font-size: 150px;
+    color: white;
+    padding: 10px;
+}
+span.pink{
+    font-size: 300px;
+    color: white;
+}

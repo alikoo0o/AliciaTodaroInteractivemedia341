@@ -1,0 +1,175 @@
+body{
+    background-color: rgba(203, 203, 255, 0.79);
+}
+.t1{
+ margin-left:340px
+}
+.t2{
+    margin-left:320px 
+}
+.t3{
+    margin-left:340px 
+}
+.t4{
+    margin-left:320px  
+}
+.t5{
+    margin-left:300px
+}
+.t6{
+    margin-left:320px 
+}
+.t7{
+    margin-left:340px
+}
+.t8{
+    margin-left:320px  
+}
+.t9{
+    margin-left:300px  
+}
+.t10{
+    margin-left:320px  
+}
+.t11{
+    margin-left:340px
+}
+.t12{
+    margin-left:320px   
+}
+.t13{
+    margin-left:300px 
+}
+.t14{
+    margin-left:320px 
+}
+.t15{
+    margin-left:340px
+}
+.t16{
+    margin-left:320px 
+}
+.t17{
+    margin-left:300px
+}
+.t18{
+    margin-left:320px 
+}
+.t19{
+    margin-left:340px
+}
+.sting{
+    margin-top: 15px;
+    margin-left: 345px;
+    width: 0;
+    height: 0;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-bottom: 100px solid black; 
+}
+.body{
+    margin-top: -20px;
+    margin-left: 220px;
+    width: 350px;
+    height: 600px;
+    background-color: white;
+    border-style:dotted;
+    border-radius: 200px / 150px;
+    position: relative;
+    z-index: 3;
+  }
+.body:hover {
+    background-color: yellow;
+  }
+.wing1{
+    margin-top: -480px;
+    margin-left: 60px;
+    width: 200px;
+    height: 200px;
+    border-style: dotted;
+    background-color: white;
+    border-radius: 50% 
+  }
+  .wing2{
+    margin-top: -50px;
+    margin-left: 60px;
+    width: 200px;
+    height: 200px;
+    border-style: dotted;
+    background-color: white;
+    border-radius: 50% 
+  }
+  .wing3{
+    margin-top: -360px;
+    margin-left: 500px;
+    width: 200px;
+    height: 200px;
+    border-style: dotted;
+    background-color: white;
+    border-radius: 50% 
+  }
+  .wing4{
+    margin-top: -50px;
+    margin-left: 500px;
+    width: 200px;
+    height: 200px;
+    border-style: dotted;
+    background-color: white;
+    border-radius: 50% 
+  }
+  .stripe{
+  margin-top: -280px;
+  margin-left: 222px;
+  width: 350px;
+  height: 50px;
+  background-color: black;
+  position: relative;
+  z-index: 4;
+  }
+  .stripe2{
+    margin-top: 80px;
+    margin-left: 222px;
+    width: 350px;
+    height: 50px;
+    background-color: black;
+    position: relative;
+    z-index: 4;
+    }
+    .eye3{
+        margin-top: 140px;
+        margin-left: 500px;
+        width: 20px;
+        height: 20px;
+        background-color: black;
+        border-radius: 50%; 
+        position: relative;
+        z-index: 5;
+    }
+    .eye2{
+        margin-top: -20px;
+        margin-left: 280px;
+        width: 20px;
+        height: 20px;
+        background-color: black;
+        border-radius: 50%; 
+        position: relative;
+        z-index: 5;
+    }
+    .topt{
+        text-align: center;
+    margin-top: -530px;
+    margin-left: 248px;
+    width: 300px;
+    height: 600px;
+    position: relative;
+    z-index: 5;
+    }
+    .bt{
+        text-align: center;
+        margin-top: -220px;
+        margin-left: 248px;
+        width: 300px;
+        height: 600px;
+        position: relative;
+        z-index: 5;
+    }
