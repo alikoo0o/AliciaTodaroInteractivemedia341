@@ -1,0 +1,38 @@
+body{
+    background: rgb(63,94,251);
+background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+color: aliceblue;
+}
+.container{
+    width: 500px;
+    height: 500px;
+    background-color: rgba(252, 70, 106, 0.704);
+    margin: auto;
+    
+}
+.head1{
+    padding: 5px;
+    margin-left: 30%;
+}
+.level1{
+    font-size: 15px;
+    margin: 20px 25px;
+}
+.level2{
+    font-size: 15px;
+    margin: 20px 75px;
+}
+.level3{
+    font-size: 15px;
+    margin-top: -300px;
+    margin-left: 170px;
+}
+.level4{
+    font-size: 15px;
+    margin-top: -150px;
+    margin-left: 320px;
+}
+.level5{
+    font-size: 15px;
+    margin-left: 250px;
+}
