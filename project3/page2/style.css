@@ -254,3 +254,21 @@
     position: relative;
     z-index: 2;
 }
+.tarolink{
+    width: 50px;
+    background-color: white;
+    margin-left: 530px ;
+    margin-top: -12px ;
+    font: small-caps 10px serif;
+    position: relative;
+    z-index: 2;
+}
+.sunglink{
+    width: 60px;
+    background-color: white;
+    margin-left: 670px ;
+    margin-top: -12px ;
+    font: small-caps 10px serif;
+    position: relative;
+    z-index: 2;
+}
