@@ -45,3 +45,14 @@
     
 
 }
+.taeillink{
+    width: 40px;
+    background-color: white;
+    margin-left: 85px ;
+    margin-top:-455px ;
+    font: small-caps 10px serif;
+    position: relative;
+    z-index: 2;
+    
+
+}
