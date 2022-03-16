@@ -200,3 +200,57 @@
     position: relative;
     z-index: 2;
 }
+.jenolink{
+    width: 50px;
+    background-color: white;
+    margin-left: 315px ;
+    margin-top: -13px ;
+    font: small-caps 10px serif;
+    position: relative;
+    z-index: 2;
+}
+.haelink{
+    width: 50px;
+    background-color: white;
+    margin-left: 455px ;
+    margin-top: -13px ;
+    font: small-caps 10px serif;
+    position: relative;
+    z-index: 2;
+}
+.yanglink{
+    width: 50px;
+    background-color: white;
+    margin-left: 75px ;
+    margin-top: 133px ;
+    font: small-caps 10px serif;
+    position: relative;
+    z-index: 2;
+}
+.chenlelink{
+    width: 50px;
+    background-color: white;
+    margin-left: 230px ;
+    margin-top: -12px ;
+    font: small-caps 10px serif;
+    position: relative;
+    z-index: 2;
+}
+.jisunglink{
+    width: 50px;
+    background-color: white;
+    margin-left: 385px ;
+    margin-top: -12px ;
+    font: small-caps 10px serif;
+    position: relative;
+    z-index: 2;
+}
+.tarolink{
+    width: 50px;
+    background-color: white;
+    margin-left: 530px ;
+    margin-top: -12px ;
+    font: small-caps 10px serif;
+    position: relative;
+    z-index: 2;
+}
