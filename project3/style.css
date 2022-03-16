@@ -1,0 +1,47 @@
+body{
+    background-color: black;
+}
+.container{
+    width:500px;
+    margin: auto;
+}
+.wn{
+    margin-top: 0px;
+    margin-left: 0px;
+    position: relative;
+}
+.wn:hover{
+    opacity: 0;
+}
+.wc{
+    margin-top: -740px;
+    margin-left: 180px;
+    position: relative;
+}
+.wc:hover{
+    opacity: 0;
+}
+.wt{
+    margin-top: -740px;
+    margin-left: 358.5px;
+    position: relative;
+}
+.wt:hover{
+    opacity: 0;
+}
+.gn{
+    margin-top: -747px;
+
+}
+
+.gc{
+    margin-top: -740px;
+    margin-left: 180px;
+
+}
+.gt{
+    margin-top: -740px;
+    margin-left: 360px;
+
+}
+
