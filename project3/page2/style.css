@@ -1,3 +1,27 @@
+.container{
+    margin: auto;
+    width: 800px;
+}
 .img{
-    margin-left: 20%;
+    margin-left: 0;
+    position: relative;
+    z-index: 1;
+}
+.taeil{
+    width: 95px;
+    height: 140px;
+    margin-left:15px ;
+    margin-top: -790px;
+    position: relative;
+    z-index: 2;
+
+}
+.chenle{
+    width: 95px;
+    height: 140px;
+    margin-left:165px ;
+    margin-top: 450px;
+    position: relative;
+    z-index: 2;
+
 }

@@ -6,9 +6,42 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Members</title>
   <link rel="stylesheet" href="style.css">
+ <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
 </head>
 <body>
+  <div class="container">
   <div class="img">
     <img src="images/members.jpeg" alt="all the members">
   </div>
+  <ul class="mem">
+    <a href="#"> <div class="taeil"> </div></a>
+    <audio id="taeil" preload= "auto">
+      <source src="images/taeil.mp3">
+    </audio>
+</ul>
+
+<script>
+  var taeilOne= $("#taeil")[0]
+  $(".mem")
+  .mouseenter(function()
+   {
+    taeilOne.play();
+  });
+</script>
+<ul class="mem2">
+  <a href="#"> <div class="chenle"> </div></a>
+  <audio id="chenle" preload= "auto">
+    <source src="images/chenle.mp3">
+  </audio>
+</ul>
+
+<script>
+var chenleOne= $("#chenle")[0]
+$(".mem2")
+.mouseenter(function()
+ {
+  chenleOne.play();
+});
+</script>
+</div>
 </body>
