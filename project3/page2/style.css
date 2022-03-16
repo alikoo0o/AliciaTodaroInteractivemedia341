@@ -9,19 +9,39 @@
 }
 .taeil{
     width: 95px;
-    height: 140px;
+    height: 120px;
     margin-left:15px ;
-    margin-top: -790px;
+    margin-top: -780px;
     position: relative;
     z-index: 2;
 
 }
 .chenle{
     width: 95px;
-    height: 140px;
+    height: 120px;
     margin-left:165px ;
-    margin-top: 450px;
+    margin-top: 470px;
     position: relative;
     z-index: 2;
+
+}
+.jaemin{
+    width: 95px;
+    height: 120px;
+    margin-left:540px ;
+    margin-top: -280px;
+    position: relative;
+    z-index: 2;
+
+}
+.jaeminlink{
+    width: 40px;
+    background-color: white;
+    margin-left:609px ;
+    margin-top:-10px ;
+    font: small-caps 10px serif;
+    position: relative;
+    z-index: 2;
+    
 
 }
