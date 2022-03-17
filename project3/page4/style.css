@@ -6,125 +6,162 @@ body{
     width: 1200px;
 }
 .topbar{
+    margin-top: -1200;
     background-color: greenyellow;
     height: 70px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: relative;
+    z-index: 1;
+}
+.albums{
+    position: relative;
+    z-index: 1;
 }
 .nct{
-    margin: 0px 0px 0px 130px;
+    margin-top: -8px;
+    margin-left: 250px;
     padding-top: 1px;
+    position: relative;
+    z-index: 1;
 }
 .nct127
 {
     margin-top: -48px;
-    margin-left: 220px;
+    margin-left: 390px;
+    position: relative;
+    z-index: 1;
 }
 .nctd
 {
+    color: rgb(0, 162, 255);
     margin-top: -48px;
-    margin-left: 350px;
+    margin-left: 530px;
+    position: relative;
+    z-index: 1;
 }
 .wayv
 {
     margin-top: -48px;
-    margin-left: 520px;
+    margin-left: 800px;
+    position: relative;
+    z-index: 1;
 }
-.album
-{
-    margin-top: -48px;
-    margin-left: 620px;
-}
-.repack
-{
-    margin-top: -48px;
-    margin-left: 750px;
-}
-.singles
-{
-    margin-top: -48px;
-    margin-left: 900px;
-}
+
 .fave{
     margin-top: -205px;
     margin-left: 200px;
+    position: relative;
+    z-index: 1;
 
 }
 .stick{
     margin-top: -203px;
     margin-left: 400px;
+    position: relative;
+    z-index: 1;
 
 }
 .ll{
     margin-top: -204px;
     margin-left: 600px;
+    position: relative;
+    z-index: 1;
 
 }
 .pmn{
     margin-top: -204px;
     margin-left: 800px;
+    position: relative;
+    z-index: 1;
 
 }
 .hf{
     margin-top: -204px;
     margin-left: 1000px;
+    position: relative;
+    z-index: 1;
 
 }
 .btu{
     margin-top: -5px;
+    position: relative;
+    z-index: 1;
 
 }
 .hs{
     margin-top: -205px;
     margin-left: 200px;
+    position: relative;
+    z-index: 1;
 
 }
 .kickback{
     margin-top: -203px;
     margin-left: 400px;
+    position: relative;
+    z-index: 1;
 
 }
 .loveholic{
     margin-top: -204px;
     margin-left: 600px;
+    position: relative;
+    z-index: 1;
 
 }
 .rp1{
     margin-top: -204px;
     margin-left: 800px;
+    position: relative;
+    z-index: 1;
 
 }
 .rp2{
     margin-top: -204px;
     margin-left: 1000px;
+    position: relative;
+    z-index: 1;
 
 }
 .awakenw{
     margin-top: -5px;
+    position: relative;
+    z-index: 1;
 
 }
 .dreamshow{
     margin-top: -205px;
     margin-left: 200px;
+    position: relative;
+    z-index: 1;
 
 }
 .reload{
     margin-top: -203px;
     margin-left: 400px;
+    position: relative;
+    z-index: 1;
 
 }
 .punch{
     margin-top: -204px;
     margin-left: 600px;
+    position: relative;
+    z-index: 1;
 
 }
 .neozone{
     margin-top: -204px;
     margin-left: 800px;
+    position: relative;
+    z-index: 1;
 
 }
 .takeotm{
     margin-top: -204px;
     margin-left: 1000px;
+    position: relative;
+    z-index: 1;
 
 }
 
@@ -158,3 +195,74 @@ body{
     margin-left: 1000px;
 
 }
+
+
+
+
+.regulate{
+    margin-top: -5px;
+
+}
+.regular{
+    margin-top: -205px;
+    margin-left: 200px;
+
+}
+.wego{
+    margin-top: -203px;
+    margin-left: 400px;
+
+}
+.chain{
+    margin-top: -204px;
+    margin-left: 600px;
+
+}
+.empathy{
+    margin-top: -204px;
+    margin-left: 800px;
+
+}
+.wey{
+    margin-top: -204px;
+    margin-left: 1000px;
+
+}
+
+
+
+.cherry{
+    margin-top: -5px;
+
+}
+.myfirst{
+    margin-top: -205px;
+    margin-left: 200px;
+
+}
+.limit{
+    margin-top: -203px;
+    margin-left: 400px;
+
+}
+.chew{
+    margin-top: -204px;
+    margin-left: 600px;
+
+}
+.onetwo{
+    margin-top: -204px;
+    margin-left: 800px;
+
+}
+.wu{
+    margin-top: -204px;
+    margin-left: 1000px;
+
+}
+
+.seven{
+    margin-top: -5px;
+
+}
+
