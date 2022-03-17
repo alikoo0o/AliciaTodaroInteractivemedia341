@@ -1,0 +1,34 @@
+.container{
+    margin: auto;
+    width: 900px;
+
+}
+.topbar{
+    background-color: blueviolet;
+    height:40px;
+}
+.heading{
+    margin-top: -70px;
+    margin-left: 70px;
+}
+.home{
+    margin-top: -53px;
+    margin-left: 200px;
+}
+.ping{
+    margin-top: -48px;
+    margin-left: 300px;
+}
+.activity{
+    margin-top: -96px;
+    margin-left: 400px;
+}
+.find{
+    margin-top: -94px;
+    margin-left: 500px;
+}
+.hey{
+
+    margin-top: 10px;
+    margin-left: 60px;
+}
