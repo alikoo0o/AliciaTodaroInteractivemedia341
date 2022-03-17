@@ -8,5 +8,33 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-page 2
+  <div class="container">
+  <script>
+  var randomlinks=new Array()
+
+  randomlinks[0]="https://youtu.be/AGihFqWRLXw"
+  randomlinks[1]="https://youtu.be/6sHIq41sI-w"
+  randomlinks[2]="https://youtu.be/zN73sou14aA"
+  randomlinks[3]="https://youtu.be/YrPdW_CPtRo"
+  randomlinks[4]="https://youtu.be/fMeBQmBHMGc"
+  randomlinks[5]="https://youtu.be/JASbahHbeLc"
+  randomlinks[6]="https://youtu.be/KvE12wc20NY"
+  randomlinks[7]="https://youtu.be/bs_eC9noORg"
+  randomlinks[8]="https://youtu.be/i9jlbWVVCoE"
+  randomlinks[9]="https://youtu.be/pHDeYyBNoMc"
+  randomlinks[10]="https://youtu.be/THecW3AZjyI"
+  randomlinks[11]="https://youtu.be/dv9ydZstIYg"
+  
+  function randomlink(){
+  window.location=randomlinks[Math.floor(Math.random()*randomlinks.length)]
+  }
+</script>
+
+  </script>
+  <form method="post">
+  <p><input type="button" name="B1" value="I'm Feeling Lucky" onclick="randomlink()"></p> </form>
+</div>
+  <!--Uncomment below to use a regular text link instead
+  <a href="javascript:randomlink()">Random Link</a>
+  -->
 </body>

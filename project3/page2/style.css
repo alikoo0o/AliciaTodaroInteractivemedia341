@@ -8,32 +8,209 @@
     z-index: 1;
 }
 .taeil{
+    background-color: aqua;
     width: 95px;
     height: 120px;
     margin-left:15px ;
     margin-top: -780px;
     position: relative;
     z-index: 2;
+    opacity: 0;
 
 }
 .chenle{
+    background-color: aqua;
     width: 95px;
     height: 120px;
     margin-left:165px ;
     margin-top: 470px;
     position: relative;
     z-index: 2;
-
+    opacity: 0;
 }
 .jaemin{
+    background-color: aqua;
     width: 95px;
     height: 120px;
     margin-left:540px ;
     margin-top: -280px;
     position: relative;
     z-index: 2;
+    opacity: 0;
 
 }
+.jaehyun{
+    background-color: aqua;
+    width: 95px;
+    height: 120px;
+    margin-left:390px ;
+    margin-top: -430px;
+    position: relative;
+    z-index: 2;
+    opacity: 0;
+
+}
+.taeyong{
+    background-color: aqua;
+    width: 95px;
+    height: 120px;
+    margin-left:320px ;
+    margin-top: -280px;
+    position: relative;
+    z-index: 2;
+    opacity: 0;
+}
+.yuta{
+    background-color: aqua;
+    width: 95px;
+    height: 120px;
+    margin-left:460px ;
+    margin-top: -140px;
+    position: relative;
+    z-index: 2;
+    opacity: 0;
+}
+.ten{
+    background-color: aqua;
+    width: 95px;
+    height: 120px;
+    margin-left:240px ;
+    margin-top: 20px;
+    position: relative;
+    z-index: 2;
+    opacity: 0;
+}
+.jungwoo{
+    background-color: aqua;
+    width: 95px;
+    height: 120px;
+    margin-left:15px ;
+    margin-top: 40px;
+    position: relative;
+    z-index: 2;
+    opacity: 0;
+}
+.lucas{
+    background-color: aqua;
+    width: 95px;
+    height: 120px;
+    margin-left:165px ;
+    margin-top: -140px;
+    position: relative;
+    z-index: 2;
+    opacity: 0;
+}
+.xiao{
+    background-color: aqua;
+    width: 95px;
+    height: 120px;
+    margin-left:465px ;
+    margin-top: -150px;
+    position: relative;
+    z-index: 2;
+    opacity: 0;
+}
+.john{
+    background-color: aqua;
+    width: 95px;
+    height: 120px;
+    margin-left:165px ;
+    margin-top: -425px;
+    position: relative;
+    z-index: 2;
+    opacity: 0;
+}
+.yang{
+    background-color: aqua;
+    width: 95px;
+    height: 120px;
+    margin-left:25px ;
+    margin-top: 475px;
+    position: relative;
+    z-index: 2;
+    opacity: 0;
+}
+.sung{
+    background-color: aqua;
+    width: 95px;
+    height: 120px;
+    margin-left:615px ;
+    margin-top: -130px;
+    position: relative;
+    z-index: 2; 
+    opacity: 0;
+}
+.hae{
+    background-color: aqua;
+    width: 95px;
+    height: 120px;
+    margin-left:390px ;
+    margin-top: -290px;
+    position: relative;
+    z-index: 2; 
+    opacity: 0;
+}
+.hen{
+    background-color: aqua;
+    width: 95px;
+    height: 120px;
+    margin-left:615px ;
+    margin-top: -290px;
+    position: relative;
+    z-index: 2; 
+    opacity: 0;
+}
+.mark{
+    background-color: aqua;
+    width: 95px;
+    height: 120px;
+    margin-left:315px ;
+    margin-top: -130px;
+    position: relative;
+    z-index: 2; 
+    opacity: 0;
+}
+.ren{
+    background-color: aqua;
+    width: 95px;
+    height: 120px;
+    margin-left:85px ;
+    margin-top: 30px;
+    position: relative;
+    z-index: 2; 
+    opacity: 0;
+}
+.jeno{
+    background-color: aqua;
+    width: 95px;
+    height: 120px;
+    margin-left:235px ;
+    margin-top: -140px;
+    position: relative;
+    z-index: 2; 
+    opacity: 0;
+}
+.taro{
+    background-color: aqua;
+    width: 95px;
+    height: 120px;
+    margin-left:465px ;
+    margin-top: 30px;
+    position: relative;
+    z-index: 2; 
+    opacity: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
 .jaeminlink{
     width: 40px;
     background-color: white;
@@ -266,7 +443,7 @@
 .sunglink{
     width: 60px;
     background-color: white;
-    margin-left: 670px ;
+    margin-left: 270px ;
     margin-top: -12px ;
     font: small-caps 10px serif;
     position: relative;
