@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(255, 227, 232);
+}
+.container{
+    margin:auto;
+    width: 1000px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    text-align: center;
+}
+img{
+    margin-left:20%;
+}
+.author{
+    text-align: center;
+}
