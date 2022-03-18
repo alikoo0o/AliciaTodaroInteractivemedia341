@@ -191,16 +191,73 @@ body {
   border-radius: 50%;
   background-color: black;
   margin-top: -250px;
-  margin-left:680px;
+  margin-left:45%;
   position: relative;
   z-index: 3;
 }
 .scale1{
   width: 0; 
   height: 0; 
+  transform: rotate(110deg);
   border-left: 20px solid transparent;
   border-right: 20px solid transparent;
   border-bottom: 20px solid rgb(142, 255, 107);
+  margin-top: -35px;
+  margin-left:680px;
+  position: relative;
+  z-index: 2;
+}
+.scale2{
+  width: 0; 
+  height: 0; 
+  transform: rotate(110deg);
+  border-left: 20px solid transparent;
+  border-right: 20px solid transparent;
+  border-bottom: 20px solid rgb(142, 255, 107);
+  margin-top: 30px;
+  margin-left:660px;
+  position: relative;
+  z-index: 2;
+}
+.scale3{
+  width: 0; 
+  height: 0; 
+  transform: rotate(110deg);
+  border-left: 20px solid transparent;
+  border-right: 20px solid transparent;
+  border-bottom: 20px solid rgb(142, 255, 107);
+  margin-top: 30px;
+  margin-left:635px;
+  position: relative;
+  z-index: 2;
+}
+.stripe1{
+  width: 10px;
+  height: 120px;
+  transform: rotate(115deg);
+  border-bottom: 20px solid rgb(142, 255, 107);
+  margin-top: -80px;
+  margin-left:841px;
+  position: relative;
+  z-index: 2;
+}
+.stripe2{
+  width: 10px;
+  height: 120px;
+  transform: rotate(115deg);
+  border-bottom: 20px solid rgb(142, 255, 107);
+  margin-top: -80px;
+  margin-left:822px;
+  position: relative;
+  z-index: 2;
+}
+.stripe3{
+  width: 10px;
+  height: 120px;
+  transform: rotate(115deg);
+  border-bottom: 20px solid rgb(142, 255, 107);
+  margin-top: -80px;
+  margin-left:803px;
   position: relative;
   z-index: 2;
 }
