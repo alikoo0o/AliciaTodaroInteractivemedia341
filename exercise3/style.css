@@ -4,7 +4,7 @@
 
 }
 .topbar{
-    background-color: blueviolet;
+
     height:40px;
 }
 .heading{
@@ -13,22 +13,54 @@
 }
 .home{
     margin-top: -53px;
-    margin-left: 200px;
+    margin-left: 300px;
 }
 .ping{
     margin-top: -48px;
-    margin-left: 300px;
+    margin-left: 400px;
 }
 .activity{
     margin-top: -96px;
-    margin-left: 400px;
-}
-.find{
-    margin-top: -94px;
     margin-left: 500px;
 }
+.find{
+    margin-top: -48px;
+    margin-left: 600px;
+}
 .hey{
-
+    opacity: 0;
     margin-top: 10px;
-    margin-left: 60px;
+    margin-left: 160px;
+}
+.hey2{
+    opacity: 0;
+    margin-top: 10px;
+    margin-left: 160px;
+    
+}
+.stuff{
+    margin-top: -45px;
+    margin-left: 700px;
+}
+.green{
+    margin-top: 20px;
+    margin-left: 40%;
+    border-radius: 25px;
+    background: #21ad52;
+    padding: 20px;
+    width: 200px;
+    height: 10px;
+    font-size: 50px;
+    line-height: 0mm;
+    text-align: center;
+    color: white;
+}
+.team{
+    margin-top: 40px;
+    margin-left: 36%;
+    width: 300px;
+    height: 200px;
+    background-color: rgb(254, 246, 234);
+    border-style: groove;
+    padding-left: 20px;
 }
